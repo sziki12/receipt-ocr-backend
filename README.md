@@ -2,7 +2,7 @@
 
 Kotlin / Spring Boot API that turns photographed receipts into structured, categorised expense data shared across a household. Text recognition and LLM parsing run in a separate Python service that this API orchestrates.
 
-The React client lives in a separate repository: [OCR_Frontend](https://github.com/sziki12/OCR_Frontend).
+The React client lives in a separate repository: ([receipt-ocr-frontend](https://github.com/sziki12/receipt-ocr-frontend)).
 
 ## Features
 
